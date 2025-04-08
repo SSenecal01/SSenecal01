@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft8fY7vY1m5cRyqkwUY6tumeOenBEU7Q_LA&s" alt="RollTide!">
+<img src="https://www.dictionary.com/e/wp-content/uploads/2018/05/roll-tide-300x300.jpg" alt="RollTide!">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Senecal
 ======================================================================================================================================
