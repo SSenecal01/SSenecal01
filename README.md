@@ -10,10 +10,6 @@ IT and Cybersecurity Student at the University of North Alabama
 * ✉️  You can contact me at [ssenecal215@gmail.com](mailto:ssenecal215@gmail.com)
 * ⚡  Currently serving in the Alabama Army National Guard
 
-### Here's a Web Dev Project I've Worked On
-
-<a href="https://github.com/SSenecal01/dev-easy-project" target = "_blank" a>
-
 ### Skills
 
 
